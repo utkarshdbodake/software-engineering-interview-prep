@@ -6,6 +6,7 @@
     2. [kdn251-interviews](https://github.com/kdn251/interviews)
     3. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
     4. [mission-peace interview questions](https://github.com/mission-peace/interview/wiki)
+    5. [Awesome tech videos](https://github.com/lucasviola/awesome-tech-videos)
  
 * System design  
     1. [System design primer](https://github.com/donnemartin/system-design-primer)
@@ -15,3 +16,4 @@
 
 * AWS
     1. [Open guide to AWS](https://github.com/open-guides/og-aws)
+    2. [Awesome serverless](https://github.com/pmuens/awesome-serverless)
