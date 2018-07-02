@@ -14,10 +14,10 @@
     3. [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
     4. [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
-* AWS
-    1. [Open guide to AWS](https://github.com/open-guides/og-aws)
-    2. [Awesome serverless](https://github.com/pmuens/awesome-serverless)
-
 * DS & Algo
     1. [DS & Algo implementation in Javascript](https://github.com/trekhleb/javascript-algorithms)
     2. [DS & Algo implementation in Java](https://github.com/sherxon/AlgoDS)
+
+* AWS
+    1. [Open guide to AWS](https://github.com/open-guides/og-aws)
+    2. [Awesome serverless](https://github.com/pmuens/awesome-serverless)
