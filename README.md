@@ -15,7 +15,8 @@
     4. [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 * DS & Algo
-    1. [DS & Algo implementation in Javascript](https://github.com/trekhleb/javascript-algorithms)
+    1. [Interviewbit](https://www.interviewbit.com)
+    2. [DS & Algo implementation in Javascript](https://github.com/trekhleb/javascript-algorithms)
     2. [DS & Algo implementation in Java](https://github.com/sherxon/AlgoDS)
 
 * AWS
