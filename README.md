@@ -7,6 +7,7 @@
     3. [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
     4. [mission-peace interview questions](https://github.com/mission-peace/interview/wiki)
     5. [Awesome tech videos](https://github.com/lucasviola/awesome-tech-videos)
+    6. [Geeksforgeeks](https://www.geeksforgeeks.org)
  
 * System design  
     1. [System design primer](https://github.com/donnemartin/system-design-primer)
@@ -18,7 +19,8 @@
 * DS & Algo
     1. [Interviewbit](https://www.interviewbit.com)
     2. [DS & Algo implementation in Javascript](https://github.com/trekhleb/javascript-algorithms)
-    2. [DS & Algo implementation in Java](https://github.com/sherxon/AlgoDS)
+    3. [DS & Algo implementation in Java](https://github.com/sherxon/AlgoDS)
+    4. [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
 
 * AWS
     1. [Open guide to AWS](https://github.com/open-guides/og-aws)
@@ -26,4 +28,3 @@
 
 * Misc
     1. [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
-    
