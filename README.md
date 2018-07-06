@@ -28,3 +28,4 @@
 
 * Misc
     1. [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+    2. [Javatpoint - Java tutorial](https://www.javatpoint.com/java-tutorial)
