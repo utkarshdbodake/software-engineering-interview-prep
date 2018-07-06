@@ -22,3 +22,6 @@
 * AWS
     1. [Open guide to AWS](https://github.com/open-guides/og-aws)
     2. [Awesome serverless](https://github.com/pmuens/awesome-serverless)
+
+* MISC
+    1. [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture)
