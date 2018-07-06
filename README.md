@@ -13,6 +13,7 @@
     2. [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
     3. [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
     4. [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture)
+    5. [Microservices.io](http://microservices.io/)
 
 * DS & Algo
     1. [Interviewbit](https://www.interviewbit.com)
