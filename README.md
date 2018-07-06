@@ -12,7 +12,7 @@
     1. [System design primer](https://github.com/donnemartin/system-design-primer)
     2. [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
     3. [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
-    4. [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+    4. [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture)
 
 * DS & Algo
     1. [Interviewbit](https://www.interviewbit.com)
@@ -23,5 +23,6 @@
     1. [Open guide to AWS](https://github.com/open-guides/og-aws)
     2. [Awesome serverless](https://github.com/pmuens/awesome-serverless)
 
-* MISC
-    1. [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture)
+* Misc
+    1. [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+    
