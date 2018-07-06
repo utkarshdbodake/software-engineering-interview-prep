@@ -20,7 +20,7 @@
     1. [Interviewbit](https://www.interviewbit.com)
     2. [DS & Algo implementation in Javascript](https://github.com/trekhleb/javascript-algorithms)
     3. [DS & Algo implementation in Java](https://github.com/sherxon/AlgoDS)
-    4. [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
+    4. [Geeksforgeeks Data Structures](https://www.geeksforgeeks.org/data-structures)
 
 * AWS
     1. [Open guide to AWS](https://github.com/open-guides/og-aws)
